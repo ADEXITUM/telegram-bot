@@ -1,4 +1,4 @@
-module read-adviser-bot
+module telegram-bot
 
 go 1.17
 

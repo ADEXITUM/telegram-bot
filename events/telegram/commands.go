@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"strings"
 
-	"read-adviser-bot/lib/e"
-	"read-adviser-bot/storage"
+	"telegram-bot/lib/e"
+	"telegram-bot/storage"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"read-adviser-bot/lib/e"
+	"telegram-bot/lib/e"
 )
 
 type Storage interface {

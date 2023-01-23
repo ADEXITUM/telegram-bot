@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"read-adviser-bot/events"
+	"telegram-bot/events"
 )
 
 type Consumer struct {
